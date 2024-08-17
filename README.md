@@ -1,1 +1,1 @@
-
+The program is designed to convert hand signals into voice output. The main program runs on a device called Pentent, which is equipped with a Raspberry Pi Zero as the processing unit and a camera for capturing visual signals. The captured signal is then transmitted to the program, and the voice output is sent back to the device.
